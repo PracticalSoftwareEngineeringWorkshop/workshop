@@ -5,6 +5,8 @@ The workshop will focus on practical experience sharing about agile software dev
 ## Objective of the workshop 
 At the end of the course, trainees will have understanding, experience and knowledge of how American and European IT companies develop applications and be able to develop one using the same methodology and technology stack.
 
+![PWASD Logos](/PWASD Logos.png)
+
 ## Executive Summary of the workshop
 
 The course will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies: SCRUM. Then, introduction to Git version control system will follow with the purpose of acquainting trainees to the main features provided. Once students have a base on Git, we will develop an API using Spring Boot framework and Postgres database will be the next topic. Afterwards, we will develop a web application using ReactJS and Javascript, and a Hybrid (Android and iOS) mobile application using Flutter SDK and Dart programming language.

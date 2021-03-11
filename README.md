@@ -17,15 +17,17 @@ At the end of the course, trainees will have experience and knowledge of how a s
 
 ## Required Resources
 Every trainee should have a computer (preferably a high performance laptop) with high speed internet connection to install the required application packages. These are: 
-- SDKMAN (http://sdkman.io/)
-- Spring Boot (via sdkman)
-- NodeJs and NPM
-- ReactJS
-- Flutter SDK
-- IntelliJ or Eclipse IDE (https://www.jetbrains.com/idea/download/)
+- Installing SDKMAN! https://sdkman.io/install
+  - Spring Boot with `sdk install springboot 2.4.3`
+  - Java version 11 with `sdk install java 11.0.3.hs-adpt`
+- IntelliJ IDEA Ultimate https://www.jetbrains.com/idea/download/#section=windows
+- Downloads Node.js Latest LTS Version: 14.16.0 (includes npm 6.14.11) https://nodejs.org/en/download/
+- Flutter SDK https://flutter.dev/docs/get-started/install/windows
+- Download and install Android Studio https://developer.android.com/studio
+- Set up the Android emulator https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
 
 ## Workshop content and schedule
-### 1st day [Morning]
+### 1st day [Morning] [1 to 1.5 hours]
 - Agile Software Development Methodology
   - Agile Manifesto
   - SCRUM: Process, Roles and Cermonies
@@ -34,52 +36,52 @@ Every trainee should have a computer (preferably a high performance laptop) with
 ##### PRACTICE:
 Organizing agile teams with in the trainees
 
-### 1st day [Morning]
+### 1st day [Morning] [1 to 1.5 hours]
 - Git version control system and Github.com
-  - git status, git add ., git commit -m "<message>", git push, git pull, git clone, git branch, git merge, git rebase, git reset, 
+  - `git status`, `git add .`, `git commit -m "<message>"`, `git push`, `git pull`, `git clone`, `git branch`, `git merge`, `git rebase`, `git reset` 
 - Trello project management
   
-PRACTICE:
+##### PRACTICE:
 - Explanation of the system we will design (Money transfer app)
 - Design the architecture using C4 model
 - Create Github repository
 - Create Trello board
 
-- 1st day [Afternoon]
--- Spring Boot with Java
---- Create Spring boot project using Intellij IDEA IDE
---- Create domain classes, controllers, services and repositories
---- Setup postgres database
---- TDD - Test Driven Development
+### 1st day [Afternoon]
+- Spring Boot with Java
+  - Create Spring boot project using Intellij IDEA IDE
+  - Create domain classes, controllers, services and repositories
+  - Setup postgres database
+  - TDD - Test Driven Development
 
-PRACTICE: 
+##### PRACTICE: 
 - Installing SDKMAN, Git and Spring Boot
 - Creating a free github account
 - Use Spring boot and Java to develop the API and push it to github (using Git)
 - Practicing TDD
 
-- 2nd day [Morning]
--- React JS
+### 2nd day [Morning]
+- React JS
 
 PRACTICE
-- Create a reactjs project
+- Create a reactjs project using [create-react-app] (https://github.com/facebook/create-react-app)
 - Pushing it to Github (via Git)
 - Create two web components: view transaction and balance, and send money
-- Connect to the API
+- Connect to the API - reading data (GET) and sending data (POST)
 
-- 2nd day [Afternoon]
--- Flutter SDK
+### 2nd day [Afternoon]
+- Flutter SDK
 
-PRACTICE
+##### PRACTICE
 - Create a Flutter project
 - Pushing it to Github (via Git)
-- Create three web screens: login, view transaction and balance, and send money
-- Connect to the API
+- Create three screens with navigation: login, view transaction and balance, and send money
+- Connect to the API - reading data (GET) and sending data (POST)
 
-- Finally
+### Finally
 - making our app production ready and our codebase look professional
 
-PRACTICE
+##### PRACTICE
 - Code refactoring
 - Use Travis CI for running tests and deployment
 - Deploying to Heroku
@@ -88,7 +90,7 @@ PRACTICE
 - Show your app to the world!
 - Handling production bugs
 
-### References
+## References
 - “Agile Software Development, Principles, Patterns, and Practices” By Robert C. Martin
 http://www.amazon.com/gp/product/0135974445?ie=UTF8&tag=lstasd01-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0135974445 
 - “Agile Estimating and Planning” by Mike Cohn 
@@ -98,7 +100,7 @@ https://www.crisp.se/bocker-och-produkter/scrum-and-xp-from-the-trenches
 - Kanban Scrum Minibook
 http://www.infoq.com/minibooks/kanban-scrum-minibook
 
-### Further Links
+## Further Links
 - Top 20 Agile Development Books Ever
 http://noop.nl/2008/06/top-20-best-agile-development-books-ever.html
 

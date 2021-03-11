@@ -1,11 +1,11 @@
 # Practical Workshop on Agile Software Development
 
-The course will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies i.e. SCRUM as well as step by step workshop on agile software development using a real-world implementation of a system.
+The workshop will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies i.e. SCRUM as well as step by step workshop on agile software development using a real-world implementation of a system.
 
-### Objectives of the workshop 
+## Objective of the workshop 
 At the end of the course, trainees will have understanding, experience and knowledge of how American and European IT companies develop applications and be able to develop one using the same methodology and technology stack.
 
-### Executive Summary of the workshop
+## Executive Summary of the workshop
 
 The course will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies: SCRUM. Then, introduction to Git version control system will follow with the purpose of acquainting trainees to the main features provided. Once students have a base on Git, we will develop an API using Spring Boot framework and Postgres database will be the next topic. Afterwards, we will develop a web application using ReactJS and Javascript, and a Hybrid (Android and iOS) mobile application using Flutter SDK and Dart programming language.
 
@@ -15,7 +15,7 @@ Trainees will be divided into agile teams and will work on the project with high
 
 At the end of the course, trainees will have experience and knowledge of how a system is developed in agile based software companies you know in Silicon Valley, Europe and all over the world.
 
-### Required Resources
+## Required Resources
 Every trainee should have a computer (preferably a high performance laptop) with high speed internet connection to install the required application packages. These are: 
 - SDKMAN (http://sdkman.io/)
 - Spring Boot (via sdkman)
@@ -24,20 +24,20 @@ Every trainee should have a computer (preferably a high performance laptop) with
 - Flutter SDK
 - IntelliJ or Eclipse IDE (https://www.jetbrains.com/idea/download/)
 
-### Workshop content and schedule
-- 1st day [Morning]
--- Agile Software Development Methodology
---- Agile Manifesto
---- SCRUM: Process, Roles and Cermonies
---- KANBAN: Process
+## Workshop content and schedule
+### 1st day [Morning]
+- Agile Software Development Methodology
+  - Agile Manifesto
+  - SCRUM: Process, Roles and Cermonies
+  - KANBAN: Process
 
-PRACTICE:
+##### PRACTICE:
 Organizing agile teams with in the trainees
 
-- 1st day [Morning]
--- Git version control system and Github.com
---- git status, git add ., git commit -m "<message>", git push, git pull, git clone, git branch, git merge, git rebase, git reset, 
--- Trello project management
+### 1st day [Morning]
+- Git version control system and Github.com
+  - git status, git add ., git commit -m "<message>", git push, git pull, git clone, git branch, git merge, git rebase, git reset, 
+- Trello project management
   
 PRACTICE:
 - Explanation of the system we will design (Money transfer app)

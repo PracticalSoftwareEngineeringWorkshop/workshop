@@ -5,7 +5,7 @@ The workshop will focus on practical experience sharing about agile software dev
 ## Objective of the workshop 
 At the end of the course, trainees will have understanding, experience and knowledge of how American and European IT companies develop applications and be able to develop one using the same methodology and technology stack.
 
-![PWASD Logos](/PWASD Logos.png)
+![PWASD Logos](PWASD_poster.png)
 
 ## Executive Summary of the workshop
 

@@ -27,6 +27,12 @@ Every trainee should have a computer (preferably a high performance laptop) with
 - Flutter SDK https://flutter.dev/docs/get-started/install/windows
 - Download and install Android Studio https://developer.android.com/studio
 - Set up the Android emulator https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
+- Download Postman - a REST API Client (tester) https://www.postman.com/downloads/
+
+## Websites to create accounts on
+- github.com
+- trello.com
+- heroku.com
 
 ## Workshop content and schedule
 ### 1st day [Morning] [1 to 1.5 hours]

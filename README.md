@@ -17,6 +17,9 @@ Trainees will be divided into agile teams and will work on the project with high
 
 At the end of the course, trainees will have experience and knowledge of how a system is developed in agile based software companies you know in Silicon Valley, Europe and all over the world.
 
+## Architectural Diagram of the Money Transfer App built in this workshop  
+![Money Transfer App Architectural Diagram](Money_Transfer_App_Architectural_Diagram.png)
+
 ## Required Resources
 Every trainee should have a computer (preferably a high performance laptop) with high speed internet connection to install the required application packages. These are: 
 - Installing SDKMAN! https://sdkman.io/install
@@ -33,6 +36,21 @@ Every trainee should have a computer (preferably a high performance laptop) with
 - github.com
 - trello.com
 - heroku.com
+
+## Core Concepts Covered
+- Agile Manifesto
+- Scrum Roles and Cermonies
+- Kanban Visualization
+- Braking down big features into smaller and achievable tasks
+- Microservices architecture
+- C4 Architectual Diagraming
+- TDD - Test Driven Development
+- Pair Programming
+- CI/CD - Continious Integration and Continious Deployment
+- Using Source Code Management (SCM) or Version Control System (VCS)
+- API (Application Programming Interface) development with a real database
+- Web app development framework and integrating with an API
+- Hybrid Mobile app development and integrating with an API
 
 ## Workshop content and schedule
 ### 1st day [Morning] [1 to 1.5 hours]
@@ -61,12 +79,14 @@ Organizing agile teams with in the trainees
   - Create domain classes, controllers, services and repositories
   - Setup postgres database
   - TDD - Test Driven Development
+  - Pair Programming
 
 ##### PRACTICE: 
 - Installing SDKMAN, Git and Spring Boot
 - Creating a free github account
 - Use Spring boot and Java to develop the API and push it to github (using Git)
 - Practicing TDD
+- Practice Pair Programming with one of the attendees
 
 ### 2nd day [Morning]
 - React JS

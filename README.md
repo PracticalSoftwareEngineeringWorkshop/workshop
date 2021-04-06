@@ -66,6 +66,7 @@ Organizing agile teams with in the trainees
 - Git version control system and Github.com
   - `git status`, `git add .`, `git commit -m "<message>"`, `git push`, `git pull`, `git clone`, `git branch`, `git merge`, `git rebase`, `git reset` 
 - Trello project management
+- Software Architecture Design
   
 ##### PRACTICE:
 - Explanation of the system we will design (Money transfer app)
@@ -129,6 +130,6 @@ https://www.crisp.se/bocker-och-produkter/scrum-and-xp-from-the-trenches
 http://www.infoq.com/minibooks/kanban-scrum-minibook
 
 ## Further Links
-- Top 20 Agile Development Books Ever
-http://noop.nl/2008/06/top-20-best-agile-development-books-ever.html
+- [Top 20 Agile Development Books Ever](http://noop.nl/2008/06/top-20-best-agile-development-books-ever.html)
+- [Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition](https://www.packtpub.com/product/hands-on-full-stack-development-with-spring-boot-2-and-react-second-edition/9781838822361)
 

@@ -3,19 +3,19 @@
 The workshop will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies i.e. SCRUM as well as step by step workshop on agile software development using a real-world implementation of a system.
 
 ## Objective of the workshop 
-At the end of the course, trainees will have an understanding, experience, and knowledge of how American and European IT companies develop applications and be able to develop one using the same methodology and technology stack.
+At the end of the workshop, trainees will have an understanding, experience, and knowledge of how American and European IT companies develop applications and be able to develop one using the same methodology and technology stack.
 
 ![PWASD Logos](PWASD_poster.png)
 
 ## Executive Summary of the workshop
 
-The course will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies: SCRUM. Then, an introduction to Git version control system will follow with the purpose of acquainting trainees to the main features provided. Once students have a base on Git, we will develop an API using Spring Boot framework and Postgres database will be the next topic. Afterward, we will develop a web application using ReactJS and Javascript, and a Hybrid (Android and iOS) mobile application using Flutter SDK and Dart programming language.  
+The workshop will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies: SCRUM. Then, an introduction to Git version control system will follow with the purpose of acquainting trainees to the main features provided. Once students have a base on Git, we will develop an API using Spring Boot framework and Postgres database will be the next topic. Afterward, we will develop a web application using ReactJS and Javascript, and a Hybrid (Android and iOS) mobile application using Flutter SDK and Dart programming language.  
 
-The course will be given in a practical way by developing a web and a mobile-based application using the recommended design patterns for developing APIs. The application we will develop is a simple money transfer system with features, which are common on most applications such as registering, logging in, sending money, and listing the current balance and all transactions. Finally, these applications will be deployed to a cloud server called Heroku.  
+The workshop will be given in a practical way by developing a web and a mobile-based application using the recommended design patterns for developing APIs. The application we will develop is a simple money transfer system with features, which are common on most applications such as registering, logging in, sending money, and listing the current balance and all transactions. Finally, these applications will be deployed to a cloud server called Heroku.  
 
 Trainees will be divided into agile teams and will work on the project with a high level of support from the instructor. Training on how to use Git distributed version control system and GitHub.com, Trello project management, Travis CI (continuous integration) as well as Heroku deployment platform will also be given.  
 
-At the end of the course, trainees will have experience and knowledge of how a system is developed in agile-based software companies you know in Silicon Valley, Europe, and all over the world.  
+At the end of the workshop, trainees will have experience and knowledge of how a system is developed in agile-based software companies you know in Silicon Valley, Europe, and all over the world.  
 
 ## Architectural Diagram of the Money Transfer App built in this workshop  
 ![Money Transfer App Architectural Diagram](Money_Transfer_App_Architectural_Diagram.png)
@@ -23,20 +23,24 @@ At the end of the course, trainees will have experience and knowledge of how a s
 ## Required Resources
 Every trainee should have a computer (preferably a high-performance laptop) with a high-speed internet connection to install the required application packages.  
 These are:  
-- Installing SDKMAN! https://sdkman.io/install
+- **Spring Boot - Backend API Development**
+  - Installing SDKMAN! https://sdkman.io/install
   - Spring Boot with `sdk install springboot 2.4.3`
   - Java version 11 with `sdk install java 11.0.3.hs-adpt`
-- IntelliJ IDEA Ultimate https://www.jetbrains.com/idea/download/#section=windows
-- Downloads Node.js Latest LTS Version: 14.16.0 (includes npm 6.14.11) https://nodejs.org/en/download/
-- Flutter SDK https://flutter.dev/docs/get-started/install/windows
-- Download and install Android Studio https://developer.android.com/studio
-- Set up the Android emulator https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
-- Download Postman - a REST API Client (tester) https://www.postman.com/downloads/
+  - IntelliJ IDEA Ultimate https://www.jetbrains.com/idea/download/#section=windows
+  - PostgreSQL database https://www.postgresql.org/download/
+  - Download Postman - a REST API Client (tester) https://www.postman.com/downloads/
+- **React JS - Frontend Web Development**
+  - Downloads Node.js Latest LTS Version: 14.16.0 (includes npm 6.14.11) https://nodejs.org/en/download/
+- **Flutter - Mobile App Development**
+  - Flutter SDK https://flutter.dev/docs/get-started/install/windows
+  - Download and install Android Studio https://developer.android.com/studio
+  - Set up the Android emulator https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
 
 ## Websites to create accounts on
-- github.com
-- trello.com
-- heroku.com
+- www.github.com
+- www.trello.com
+- www.heroku.com
 
 ## Core Concepts Covered
 - Agile Manifesto

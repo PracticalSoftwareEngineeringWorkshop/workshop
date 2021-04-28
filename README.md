@@ -58,7 +58,7 @@ These are:
 - Hybrid Mobile app development and integrating with an API. 
 
 ## Workshop content and schedule
-### 1st day [Morning] [1 to 1.5 hours]
+### 1st day [Morning] [1.5 to 2 hours]
 - Agile Software Development Methodology
   - Agile Manifesto
   - SCRUM: Process, Roles and Ceremonies
@@ -67,7 +67,7 @@ These are:
 ##### PRACTICE:
 Organizing agile teams with in the trainees
 
-### 1st day [Morning] [1 to 1.5 hours]
+### 1st day [Afternoon] [4 to 5 hours]
 - Git version control system and Github.com
   - `git status`, `git add .`, `git commit -m "<message>"`, `git push`, `git pull`, `git clone`, `git branch`, `git merge`, `git rebase`, `git reset` 
 - Trello project management
@@ -78,8 +78,9 @@ Organizing agile teams with in the trainees
 - Design the architecture using the C4 model
 - Create Github repository
 - Create Trello board
+- Practice using Git and GitHub
 
-### 1st day [Afternoon]
+### 2nd day [8 hours] 
 - Spring Boot with Java
   - Create Spring boot project using Intellij IDEA IDE
   - Create domain classes, controllers, services, and repositories
@@ -94,7 +95,7 @@ Organizing agile teams with in the trainees
 - Practicing TDD
 - Practice Pair Programming with one of the attendees
 
-### 2nd day [Morning]
+### 3rd day [6 hours]
 - React JS
 
 PRACTICE
@@ -103,7 +104,7 @@ PRACTICE
 - Create two web components: view transaction and balance, and send money
 - Connect to the API - reading data (GET) and sending data (POST)
 
-### 2nd day [Afternoon]
+### 3rd day [Afternoon] [2 hours]
 - Flutter SDK
 
 ##### PRACTICE

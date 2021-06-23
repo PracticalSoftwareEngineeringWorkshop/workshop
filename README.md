@@ -1,4 +1,9 @@
 # Practical Workshop on Agile Software Development
+by Biniam Asnake.  
+Email: biniamasnake@gmail.com   
+LinkedIn: www.linkedin.com/in/biniama  
+GitHub: https://github.com/biniama  
+
 
 The workshop will focus on practical experience sharing about agile software development methodology and detail day-to-day implementation of one of the agile methodologies i.e. SCRUM as well as step by step workshop on agile software development using a real-world implementation of a system.
 
@@ -20,11 +25,11 @@ At the end of the workshop, trainees will have experience and knowledge of how a
 ## Architectural Diagram of the Money Transfer App built in this workshop  
 ![Money Transfer App Architectural Diagram](Money_Transfer_App_Architectural_Diagram.png)
 
-## Minimum Requirement
+## Minimum Requirements
 In order to attend the workshop, the trainees should be familiar with 
 - Software Development Lifecycle,
-- Java programming lanaguage, 
-- Javascript programming lanaguage, 
+- Java programming language, 
+- Javascript programming language, 
 - SQL database scripting,
 - Mobile application development using any framework.
 
@@ -55,9 +60,9 @@ These are:
 - Agile Manifesto
 - Scrum Roles and Ceremonies
 - Kanban Visualization
-- Braking down big features into smaller and achievable tasks
+- Breaking down big features into smaller and achievable tasks
 - Microservices architecture
-- C4 Architectural Diagraming
+- C4 Architectural Diagramming
 - TDD - Test Driven Development
 - Pair Programming
 - CI/CD - Continuous Integration and Continuous Deployment

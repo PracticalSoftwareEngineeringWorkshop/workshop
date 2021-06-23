@@ -20,13 +20,22 @@ At the end of the workshop, trainees will have experience and knowledge of how a
 ## Architectural Diagram of the Money Transfer App built in this workshop  
 ![Money Transfer App Architectural Diagram](Money_Transfer_App_Architectural_Diagram.png)
 
+## Minimum Requirement
+In order to attend the workshop, the trainees should be familiar with 
+- Software Development Lifecycle,
+- Java programming lanaguage, 
+- Javascript programming lanaguage, 
+- SQL database scripting,
+- Mobile application development using any framework.
+
 ## Required Resources
 Every trainee should have a computer (preferably a high-performance laptop) with a high-speed internet connection to install the required application packages.  
 These are:  
 - **Spring Boot - Backend API Development**
+  - If you are using Windows OS, Install Ubuntu on Windows 10 https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
   - Installing SDKMAN! https://sdkman.io/install
   - Spring Boot with `sdk install springboot 2.4.3`
-  - Java version 11 with `sdk install java 11.0.3.hs-adpt`
+  - Java version 11 (LTE - Long term support) with `sdk install java 11.0.3.hs-adpt`
   - IntelliJ IDEA Ultimate https://www.jetbrains.com/idea/download/#section=windows
   - PostgreSQL database https://www.postgresql.org/download/
   - Download Postman - a REST API Client (tester) https://www.postman.com/downloads/
@@ -95,7 +104,7 @@ Organizing agile teams with in the trainees
 - Practicing TDD
 - Practice Pair Programming with one of the attendees
 
-### 3rd day [6 hours]
+### 3rd day [8 hours]
 - React JS
 
 PRACTICE
@@ -104,7 +113,7 @@ PRACTICE
 - Create two web components: view transaction and balance, and send money
 - Connect to the API - reading data (GET) and sending data (POST)
 
-### 3rd day [Afternoon] [2 hours]
+### 4th day [8 hours]
 - Flutter SDK
 
 ##### PRACTICE
